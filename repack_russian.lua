@@ -61,8 +61,8 @@ new_game_window = {
   start = "Начать",
 }
 menu_options_warmth_colors = {
-  choice_2 = "  СИНИЙ ЗЕЛЕНЫЙ КРАСНЫЙ  ",
   choice_1 = "  КРАСНЫЙ  ",
+  choice_2 = "  СИНИЙ ЗЕЛЕНЫЙ КРАСНЫЙ  ",
   choice_3 = "  ЖЕЛТЫЙ ОРАНЖЕВЫЙ КРАСНЫЙ  ",
 }
 date_format = {
